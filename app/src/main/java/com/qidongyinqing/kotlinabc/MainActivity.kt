@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
 //        println(customer)
 //        InnerUser.withFun()
 //        InnerUser.repeatFun()
-//        InnerUser.letFun()
+        InnerUser.letFun()
 //        InnerUser.applyFun()
 //        InnerUser.runFun()
 //        InnerUser.otherRunFunc()

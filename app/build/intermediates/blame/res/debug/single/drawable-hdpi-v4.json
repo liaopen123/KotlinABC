@@ -28,12 +28,12 @@
         "source": "/Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
         "source": "/Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",

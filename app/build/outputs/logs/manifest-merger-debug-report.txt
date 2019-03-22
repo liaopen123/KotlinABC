@@ -16,19 +16,19 @@ ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/ma
 application
 ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/pony/.android/build-cache/0b64e978b4bca6e4c6ed88cbcc18bd44560ab2f4/output/AndroidManifest.xml:9:5-20
-MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.android/build-cache/eb6595015cbb59365fec90e04fab595281fbb517/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.android/build-cache/98cff98bcfee0283182827a755084f782d83f089/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.android/build-cache/5afc8d04a19547d1615ffece17fe3fca89bfbb0a/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.android/build-cache/93ae71a692929a97b3c7bcd749229b12029a8e42/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.android/build-cache/b669b03a8d70120a8287858b02d42b0896baa320/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.android/build-cache/b00389f161765a0d1d36059f67e01975a19a31ec/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.android/build-cache/c75588a88b8a3343e8f6b00d6952f5334ca08f92/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.android/build-cache/a10f04ea871b48e5228837cd650dafe064e95ad9/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.android/build-cache/d00a6c438e60b215695e3434d55d84bbcf831caa/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.android/build-cache/736a0bc7e274d487321ce51421320e3e6635c968/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.android/build-cache/38d062e2722098893276f2a7798b2f333bb1ac79/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.android/build-cache/38c0f644cce138c1430be3a70265626ca5a0cf7a/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.android/build-cache/a492679c506edd9c880c2677c99c51ba982b5aeb/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.android/build-cache/e0d1c8ae0052e2673a7e905e90f5b7893b2007a9/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.android/build-cache/df36d60ff43b07b60ed1d064b8e382e269534f04/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.android/build-cache/588090e601cf93800506cf85435f6ce6ed03fe9a/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.android/build-cache/281ed2d6176907a267b64c96f098653825cb5d6e/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.android/build-cache/848b70195ae6b0a3cb37617b5799d50ae34d6dd8/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.android/build-cache/e1372ae714eb438c84ef426c42383fd9fd8c6b1c/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.android/build-cache/dab0449d88019360f78bcc16dc4e9e20d86e6ea0/output/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /Users/pony/.android/build-cache/a52070f3f71a6de61948cf9f0a9ac25f1c99a774/output/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pony/.android/build-cache/e5ed860d5ab08f15c7ee03f2444e5976fc1ced83/output/AndroidManifest.xml:22:5-23:19
-MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.android/build-cache/266baf401712c969e75a794166e05cb466ac0ef2/output/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.android/build-cache/8328343439bbad253b75b7f8dbcad8d5f85d331b/output/AndroidManifest.xml:11:5-20
 	android:label
 		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -64,22 +64,22 @@ ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/ma
 uses-sdk
 INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/pony/.android/build-cache/0b64e978b4bca6e4c6ed88cbcc18bd44560ab2f4/output/AndroidManifest.xml:5:5-7:41
-MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.android/build-cache/eb6595015cbb59365fec90e04fab595281fbb517/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.android/build-cache/98cff98bcfee0283182827a755084f782d83f089/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.android/build-cache/5afc8d04a19547d1615ffece17fe3fca89bfbb0a/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /Users/pony/.android/build-cache/d6a31e5fc3824d2de44ba9985a6a1d080eb6f876/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.android/build-cache/93ae71a692929a97b3c7bcd749229b12029a8e42/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:platform-base:0.10.8] /Users/pony/.android/build-cache/8abbeecf5fa27b6819048d095a7300c0399e4935/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.android/build-cache/b669b03a8d70120a8287858b02d42b0896baa320/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.android/build-cache/b00389f161765a0d1d36059f67e01975a19a31ec/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.android/build-cache/c75588a88b8a3343e8f6b00d6952f5334ca08f92/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.android/build-cache/a10f04ea871b48e5228837cd650dafe064e95ad9/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.android/build-cache/d00a6c438e60b215695e3434d55d84bbcf831caa/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.android/build-cache/736a0bc7e274d487321ce51421320e3e6635c968/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /Users/pony/.android/build-cache/c60110e96c6aad456280d4090e7c7f543096edb7/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:27.1.1] /Users/pony/.android/build-cache/a7748bd45d7ad80eda085328d36ad6de633dd1da/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/pony/.android/build-cache/2c6927945607066134a4a606ff0db0d059e2131f/output/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /Users/pony/.android/build-cache/88735909f336186b12ef282c13da3536a14635d0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.android/build-cache/38d062e2722098893276f2a7798b2f333bb1ac79/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.android/build-cache/38c0f644cce138c1430be3a70265626ca5a0cf7a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.android/build-cache/a492679c506edd9c880c2677c99c51ba982b5aeb/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /Users/pony/.android/build-cache/ec7f17279f2734ee13fb93a39804deba840b7b34/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.android/build-cache/e0d1c8ae0052e2673a7e905e90f5b7893b2007a9/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] /Users/pony/.android/build-cache/f552f35320aa17c78fbd2ee86be75e77684d2109/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.android/build-cache/df36d60ff43b07b60ed1d064b8e382e269534f04/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.android/build-cache/588090e601cf93800506cf85435f6ce6ed03fe9a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.android/build-cache/281ed2d6176907a267b64c96f098653825cb5d6e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.android/build-cache/848b70195ae6b0a3cb37617b5799d50ae34d6dd8/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.android/build-cache/e1372ae714eb438c84ef426c42383fd9fd8c6b1c/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.android/build-cache/dab0449d88019360f78bcc16dc4e9e20d86e6ea0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /Users/pony/.android/build-cache/551da089ac741dbce13d2630cf462261cc0f0ddf/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/pony/.android/build-cache/bc6fa308d5b1ea51ba5b769e1bae0cdeffd63a77/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/pony/.android/build-cache/69c0f54e41c8ecdb099c7dbe0fccb2a9e071f0e8/output/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /Users/pony/.android/build-cache/4292032be80dfa26276af483c241224a69d97fb3/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/pony/.android/build-cache/119668a4479a92a52ababab3b0134969e2f74b36/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/pony/.android/build-cache/7684b155e16deb700f910342926c7f934774b1bb/output/AndroidManifest.xml:20:5-44
@@ -106,8 +106,8 @@ MERGED from [com.android.support:support-compat:28.0.0] /Users/pony/.android/bui
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/pony/.android/build-cache/7bad83cf522520cb19618a9610c885264b5dde6d/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pony/.android/build-cache/e5ed860d5ab08f15c7ee03f2444e5976fc1ced83/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/pony/.android/build-cache/3fcbfb20489814873a6aaffdc95b94c33db86759/output/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.android/build-cache/266baf401712c969e75a794166e05cb466ac0ef2/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/pony/.android/build-cache/e748c8170efa9db1766022b8ac23e7293eaed7b5/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.android/build-cache/8328343439bbad253b75b7f8dbcad8d5f85d331b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/pony/.android/build-cache/966a106ff2c71cf64dc152b300e1c430db615cea/output/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
