@@ -58,7 +58,7 @@ class Main2Activity : AppCompatActivity() {
             add("888")
             add("999")
         }
-        println("run" + run)
+        println("run$run")
 
 
         run {

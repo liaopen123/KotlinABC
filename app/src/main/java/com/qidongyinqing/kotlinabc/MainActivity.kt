@@ -8,6 +8,7 @@ import com.example.pony.kotlintoutor.委托和代理.BigHeadSon
 import com.example.pony.kotlintoutor.委托和代理.SmallHeadFather
 import com.qidongyinqing.kotlinabc.innerfunc.InnerUser
 import com.qidongyinqing.kotlinabc.pojo.Customer
+import com.qidongyinqing.kotlinabc.集合对比.CollectionAPI
 import kotlinx.android.synthetic.main.activity_main.*
 import java.lang.Exception
 
@@ -57,6 +58,9 @@ class MainActivity : AppCompatActivity() {
         var array = arrayOf(65, 58, 95, 10, 57, 62, 13, 106, 78, 23, 85)
         val quickSort = InnerUser.quickSort(array, 0, array.size - 1)
         Log.e(TAG, "quickSort:$quickSort")
+
+
+ CollectionAPI().testApi();
     }
 
 
