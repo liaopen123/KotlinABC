@@ -1,26 +1,26 @@
 [
     {
         "merged": "/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/res/drawable-v21/abc_edit_text_material.xml"
+        "source": "/Users/pony/.android/build-cache/598e8c08992340a0eebec743dd4a43b9e29e7d5f/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "source": "/Users/pony/.android/build-cache/598e8c08992340a0eebec743dd4a43b9e29e7d5f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/res/merged/debug/drawable-v21/abc_list_divider_material.xml",
-        "source": "/Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/res/drawable-v21/abc_list_divider_material.xml"
+        "source": "/Users/pony/.android/build-cache/598e8c08992340a0eebec743dd4a43b9e29e7d5f/output/res/drawable-v21/abc_list_divider_material.xml"
     },
     {
         "merged": "/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/res/merged/debug/drawable-v21/abc_dialog_material_background.xml",
-        "source": "/Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/res/drawable-v21/abc_dialog_material_background.xml"
+        "source": "/Users/pony/.android/build-cache/598e8c08992340a0eebec743dd4a43b9e29e7d5f/output/res/drawable-v21/abc_dialog_material_background.xml"
     },
     {
         "merged": "/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "source": "/Users/pony/.android/build-cache/598e8c08992340a0eebec743dd4a43b9e29e7d5f/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/Users/pony/.android/build-cache/a52070f3f71a6de61948cf9f0a9ac25f1c99a774/output/res/drawable-v21/notification_action_background.xml"
+        "source": "/Users/pony/.android/build-cache/a928a73684438260dc234d04977e8107d0e43892/output/res/drawable-v21/notification_action_background.xml"
     }
 ]

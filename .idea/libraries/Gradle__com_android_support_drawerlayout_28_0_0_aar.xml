@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:drawerlayout:28.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/b2886270f3758d81c7fff0b7720d9013e6fdc1ef/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/b2886270f3758d81c7fff0b7720d9013e6fdc1ef/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/8510dbf7dffbf7bb1733c56c53f216d949375b3e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8510dbf7dffbf7bb1733c56c53f216d949375b3e/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
