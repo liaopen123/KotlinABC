@@ -3,13 +3,7 @@ package com.qidongyinqing.kotlinabc
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.util.Log
-import com.example.pony.kotlintoutor.`object`.Rect
-import com.example.pony.kotlintoutor.委托和代理.BigHeadSon
-import com.example.pony.kotlintoutor.委托和代理.SmallHeadFather
-import com.qidongyinqing.kotlinabc.innerfunc.InnerUser
-import com.qidongyinqing.kotlinabc.pojo.Customer
-import com.qidongyinqing.kotlinabc.集合对比.CollectionAPI
-import kotlinx.android.synthetic.main.activity_main.*
+import com.qidongyinqing.kotlinabc.strings.joinToString
 import java.lang.Exception
 
 class MainActivity : AppCompatActivity() {
@@ -17,50 +11,59 @@ class MainActivity : AppCompatActivity() {
     val TAG = javaClass.simpleName
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val WEEK = 7
-        var name = "pony"
-        val c:Int
-        c = 100
-        setContentView(R.layout.activity_main)
-//        tv.text = "haha"
+//        val WEEK = 7
+//        var name = "pony"
+//        val c:Int
+//        c = 100
+//        setContentView(R.layout.activity_main)
+////        tv.text = "haha"
+////
+////
+////
+////        tv.setOnClickListener {toast("hello kotlin")}
+////        stringMoudle()
+////        println("0和40最大值是${maxof(0,40)}")
+////       println("得到的int为${parseInt("")}")
+////
+////        getEvery()
+////        getEvery1()
+////        getWhile()
+////println( isWhen(1))
+////println(  isWhen("zzz"))
+////println(   isWhen(888))
+////        println(isRange(120))
+////
+////
+////        var customer = Customer(name = "pony",email = "467969@qq.com")
+////
+////        println(customer)
+////        customer.email="ddd"
+////        println(customer)
+////        println(customer)
+////        InnerUser.withFun()
+////        InnerUser.repeatFun()
+//        InnerUser.letFun()
+////        InnerUser.applyFun()
+////        InnerUser.runFun()
+////        InnerUser.otherRunFunc()
+////        InnerUser.alsoFun()
+////        InnerUser.takeIf()
+////        InnerUser.takeUnless()
+//        var array = arrayOf(65, 58, 95, 10, 57, 62, 13, 106, 78, 23, 85)
+//        val quickSort = InnerUser.quickSort(array, 0, array.size - 1)
+//        Log.e(TAG, "quickSort:$quickSort")
 //
 //
-//
-//        tv.setOnClickListener {toast("hello kotlin")}
-//        stringMoudle()
-//        println("0和40最大值是${maxof(0,40)}")
-//       println("得到的int为${parseInt("")}")
-//
-//        getEvery()
-//        getEvery1()
-//        getWhile()
-//println( isWhen(1))
-//println(  isWhen("zzz"))
-//println(   isWhen(888))
-//        println(isRange(120))
-//
-//
-//        var customer = Customer(name = "pony",email = "467969@qq.com")
-//
-//        println(customer)
-//        customer.email="ddd"
-//        println(customer)
-//        println(customer)
-//        InnerUser.withFun()
-//        InnerUser.repeatFun()
-        InnerUser.letFun()
-//        InnerUser.applyFun()
-//        InnerUser.runFun()
-//        InnerUser.otherRunFunc()
-//        InnerUser.alsoFun()
-//        InnerUser.takeIf()
-//        InnerUser.takeUnless()
-        var array = arrayOf(65, 58, 95, 10, 57, 62, 13, 106, 78, 23, 85)
-        val quickSort = InnerUser.quickSort(array, 0, array.size - 1)
-        Log.e(TAG, "quickSort:$quickSort")
+// CollectionAPI().testApi()
+
+        val list = listOf(1,2,3)
+        //调用四个参数实现数组元素的拼装
+        val res = joinToString(list, ",", "(", ")")
+        Log.e(TAG, "res:::::$res")
 
 
- CollectionAPI().testApi();
+
+
     }
 
 

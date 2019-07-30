@@ -12,84 +12,75 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/8cb258401c2086f8d37364eeb3f2beca2c6638d5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_d74bc89be10863e85310f8d0c9c450bf856522e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/c88428721904ffa111be0f70fabf37b851cbacb6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_9d9b760dc8d2b79cdd96361cca77366d06311ffa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/281ed2d6176907a267b64c96f098653825cb5d6e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3e2daa74f135f569d0f669eeafb3ccc9c75a8c8e">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_432b2d6bc2879910ca1ec949b703b7ac26baeac7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/af8468140b49cafb30ec9506ab8aae1a7e25614d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_63733331713fefe69cf8b58630388b31859a8653.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/dab0449d88019360f78bcc16dc4e9e20d86e6ea0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b8e5cab10bb308650ff85595c182fd698465867e">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_3d7c096ac349eaaee946056127fe441b5f4b6891.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/588090e601cf93800506cf85435f6ce6ed03fe9a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="dd20952de6e64554f87b82c4b33757f538d0b6f7">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_aa18cb3c60fdbe6d7b770a2244522036402007ea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/119668a4479a92a52ababab3b0134969e2f74b36/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/7facb4785a4483f8b90c2c26d7786d8cbf680458/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_e807d149530d127a7eefc7a18b158e7ff4f66d60.jar" />
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_3767228f1fe79d138c715a4a81eb0e95a5d1e342.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/df36d60ff43b07b60ed1d064b8e382e269534f04/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/9582d9b242829c30101fba7ffea7942720972b88/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="103908b65e301be93022f3cbb53a4d322cb783cd">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_184353c003811f7830afd7e3b78e965638f342dc.jar" />
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_d672fee4713e7687fac2c3bb2a20949cb2ee9247.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/e1372ae714eb438c84ef426c42383fd9fd8c6b1c/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/598ad175fab076947b9ae468f676dd106d3b2cd6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="19a8311e62e0bf8a0e4b61f0b92dc1e15df22467">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_625d357e40841e04b76c23762ea1e338d8e4e6a8.jar" />
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_3934f633f7a24761464aeff78824b12a6fedd24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/e0c2fa72a47ba9f105e7d69de8e68a5ac5fa1b43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c087c239091fb19e91467fdc221a41e36d063a9a">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_16ac9475958d6a5ecab0e0e040e8f3740c061044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/727b55898ab28bfa26a99055bd50203943e36c4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_a16bca40bcd5789c839c393371c63a4cce0deab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/91a28b996eb093f6699e2ef5a37a5b7adb13e6f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e2daa74f135f569d0f669eeafb3ccc9c75a8c8e">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_12901b7d329c630edcbe6d89d92f60ad34dc33c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/598e8c08992340a0eebec743dd4a43b9e29e7d5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_387ae856a94ce4f5a700c5a320eee104526f04b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/21bf7b0c6b3bbdb6eddc27b9e0c5e455eba2ad81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="943a045f1b4498bbd2c8c3e99d375a4be9b98c50">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_b797af3925716f4cbd577f41b5d07ab1b911e355.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,21 +93,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/6fdf48cb6b178d34871dbdbb9e7c478cb1522a2e/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/258ba75707004d3f26341c9d7a0526df180d7a63/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="de467de1baba33a922246561f87c0a910206d1ff">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_e95cbb410258add23be76a8df695d61e0601ee31.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/7bad83cf522520cb19618a9610c885264b5dde6d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_4d1ec2eb9342941bab802e26f606f36929e66fe4.jar" />
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_5fdb31b1a13c4c05d35c94dc1e2a3df041dd97a7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,6 +111,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/pony/.android/build-cache/ba9fa9caa51345fcae248c00f8081b300bc79ed7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="103908b65e301be93022f3cbb53a4d322cb783cd">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_d16173720ee0fbeeb3b6ce9482656e00cfe36406.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/pony/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0/a134b0cfe9bb44f98b0b3e889cda07923eea9428/kotlin-stdlib-1.3.0.jar"
         jumboMode="false"
         optimize="true"
@@ -138,48 +129,93 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/187edf3127775e7dd70a784525ef3e21ab07201f/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/a7b82b02ae10a145ee57c9d2dd651348ea49b480/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_ac11a67f38515d56dee18452a7e6492d4e4eb435.jar" />
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_6d9299ab72cb173b259221f54d31df865ba42a00.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/69c0f54e41c8ecdb099c7dbe0fccb2a9e071f0e8/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/a77ff874128fb20849d3db115e2f257dc828a55a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="076f784e4b87a33d5637b813cdb18160a7db4ac4">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_a2495cdce0d6389a23b24082849cc672d3d624e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/6ee480cc59667bc63ed7fcd98a305043b1fe09f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0179b96929b750b7a8b4523054ae1cb9305b2ded">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_09c2363e55a5f713f24c73cec47612fc21d1236b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/88e8c098bd6bf9e214a218f26c467970cd4b36e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_84f4695cf4a51b0d2c773b4ec0367932a7bb1ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/b59418985f9d84d48e4bd7d259110f23aa5d39a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7b82aefacaf42647c8f498d63f894765baad316">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_41b7ce695fc21739c50cf223d76219ff22f460a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/a928a73684438260dc234d04977e8107d0e43892/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_bf987743187c954a54ccf49b140419e8db2eeb1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/ba7344d3100c574b359b861d3103fc4bc65741ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_4a014ca0c484dff39ee243007683a2ef7c26066a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/79f290d3198f3f61423b2c34cf489729f29bdd68/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_b3a6ee15ffe9c23da01c520923e59bc22d1d52a1.jar" />
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_fbeab0c045dcc3798c56576dd28a4095546db639.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/551da089ac741dbce13d2630cf462261cc0f0ddf/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/eebaf9221c14cc30596a7d0d4aab6f3aaa415d33/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="943a045f1b4498bbd2c8c3e99d375a4be9b98c50">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_53bb79f06708b427a18e13b8267381004014e76f.jar" />
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_16c317404d449841a2520eb412f85da9c611ef54.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/85d6ae107a48bdca8e1fafcd7d47806bf24664b2/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/696165287af1d44430421c8f011f10a072ae1e75/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_01372dfbd0b5d9033eca853a39ed9ddef24728a2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/a6aaa0c42142091ba5013dd1d6cb4023e62d637e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_ea4ba45e6c85500afb8338bcbe80e5a70677401f.jar" />
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_6d1c54dc78e7638bff80e234ffa5ebf90908a6c9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,15 +228,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/3931bf6259e68f8272e3154bcf0694cf574082b7/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_9fc66e9497a7ce0cfec8c3943a621a67c9d46759.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/pony/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
         jumboMode="false"
         optimize="true"
@@ -210,12 +237,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/ca00acc751aff924006e5094bba73e88e025779f/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/ad17dc33e0b93a2df7818331e2ff94be2fb2c97d/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_d6b0390a11e7270fcaba17e8be0eccbdd0f2261c.jar" />
+        sha1="4a288a15a7211911b7c10f10d56c76c6aeed9049">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_ef51d7e5f2557a056e54233ce0385ccbe1ff31aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/a84f940467321cf62e9ad99d21279701d1943a79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c68c0bbc30850e08ace42e4070b2bd3d3af76594">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_326f34dcd74b6cf061b8e1da2edeafcd94169830.jar" />
     </item>
     <item
         is-multidex="false"
@@ -228,75 +264,75 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/737140c6aa849bf520c906792563411372881d18/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_6ef72efab7625ef5e19628a00ed188d40422d056.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/38c0f644cce138c1430be3a70265626ca5a0cf7a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c55f87b91440295c6f633872f93a44c8472bfa21">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_351736f32cab881bdd46312ed7a9c889d4576e2b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/ec7f17279f2734ee13fb93a39804deba840b7b34/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f7b82aefacaf42647c8f498d63f894765baad316">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_de37bde65cf1b26b823006152f5e61aa2fd4ecf0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/a492679c506edd9c880c2677c99c51ba982b5aeb/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c68c0bbc30850e08ace42e4070b2bd3d3af76594">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_c34459297fcff67c041d2300bc79840bd24c86f0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/4292032be80dfa26276af483c241224a69d97fb3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="5146c245bdc9a94f1449a3e5b73b7c6b584a92aa">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_48cb5b10fc9abb430e52bb1b03a0e99445906bea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/966a106ff2c71cf64dc152b300e1c430db615cea/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/649148f18ae73ab0e09aed73f7fb89b5002c1601/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="a290716317bc25a48882417e5458de7646114270">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_557f25a82a2f2d1168a6e13ba5f9053c6330525b.jar" />
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_6bedb2afd0cb837a018a57387e7a4ae7629b9368.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/0d19d76c104a923149de2405bdb7db6c38724fbb/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/0693514753604879cfc51a16b491a7fc6587e944/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_f88bdd44e3f385421cdb63bdc681e4a7ea8d3d0a.jar" />
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_df078369b612686f0c84e5ec44ec49b2eb2d9f1f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/88dd9ec5e06ff2769081d13b97b1cbf189f0045c/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/c2bb2b1d27d45b3f7fcc8053ea8b2422ece199df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_e3666eb7b9e36f95e1e700e801cf3b5d01175655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/78fa06007225db81a57ba3ca3f10f07b1e1fd097/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_3226bc7f7280e47784d0da55a0c080c6c0cdd425.jar" />
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_351149acb05ddc3265ef5ad04cc30f1e0de7f3e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/88b2e45e8bb3d7a8effa9e7c29b8164956e55bcc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_a8ab7b59304c4d66a1fc32797715eca6610e3a27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/8510dbf7dffbf7bb1733c56c53f216d949375b3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_d1389aa7eeae29a993fbc7c3472acdb8e8650c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/1ff418110f773721058b5990a0c3933c566da019/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_89a00aa54a9577183fdf5685659745cc331511c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/91976abf88a8b70514a20ce1530f563ec95185bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c55f87b91440295c6f633872f93a44c8472bfa21">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_0dbf74d9ee76c1e1ebd66e8649cff9bdc92ae027.jar" />
     </item>
     <item
         is-multidex="false"
@@ -309,30 +345,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/38d062e2722098893276f2a7798b2f333bb1ac79/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/4393b80c9b9cd219c2d5486b2af5cf48e41c4d8c/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="4a288a15a7211911b7c10f10d56c76c6aeed9049">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_a348330a4afe7de62c6a654880b6e62918a25290.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/e5ed860d5ab08f15c7ee03f2444e5976fc1ced83/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_665f6428d49892cb2c89945182ebdceebe962fe2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/e0d1c8ae0052e2673a7e905e90f5b7893b2007a9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b636b86d63e20ee04d65b9e789df4e1dc85c2b07">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_c23ade1ab6e406e04c67e48041fecec14da262f0.jar" />
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_bdff71daf318d1550523555ae3a43218d81d0baf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -345,33 +363,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/8328343439bbad253b75b7f8dbcad8d5f85d331b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="076f784e4b87a33d5637b813cdb18160a7db4ac4">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_31f5f4093b0b41ff215fa5d60d99d3a276068c2c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/01e4f4701be5e33997d9a6508a46c5ed49073074/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_9f734fd593bbd10ce0d096a436d2f204e0039d23.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/7684b155e16deb700f910342926c7f934774b1bb/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_a58b865735bd68d86618f723d7f4eed074141c64.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/pony/.android/build-cache/0b64e978b4bca6e4c6ed88cbcc18bd44560ab2f4/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -381,12 +372,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/adb3180f7b88572fcd46a544d09c01e55f8e19d9/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/03833046447294e73d775db76de85c8837da3a2a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_629b4346c82f933d4cf6d9c781806985b317e6ef.jar" />
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_08755704d4c5b0c823978c6c421cf16017eb372d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -399,93 +390,102 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/a52070f3f71a6de61948cf9f0a9ac25f1c99a774/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_1ccfad87917652374d0e73ca2c4cdf43251bea88.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/5cae88eccfd1fd832a73988a7971a20b4e306836/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_068454b386413263d68a72b0434d81fd148742d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/848b70195ae6b0a3cb37617b5799d50ae34d6dd8/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="0179b96929b750b7a8b4523054ae1cb9305b2ded">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_a9e1232fed51d43176d7571904e91955fa0d8e47.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/b2886270f3758d81c7fff0b7720d9013e6fdc1ef/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="fad505737146925636e28753e26523c3a8a03e48">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_50829d035ba36b2edb3ae15453a78c87ba46f191.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/3068f21c23de201d5c8e04420d336dfb92c2f148/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_7c1c621325857cb7d76caf9db2fbfa56b9c2d5e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/b8f1bc5cbaa7464444614a72d5ea2bff4c5abcbc/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="234e706c7aea09f97738c7830d144d50d240079e">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_aa6324357441884d5525a96c9807df0ff28c42cd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/9c4e270ba29450a194ec86916ab2f5ff5a926f8a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_fb412c18c4022d81e6ac1a910568e4923d082c2c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pony/.android/build-cache/5ad5dc7992f26fcd988e0d5110078c6b92a68da5/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/2c376f97a8628daf17ae77a54f94caa8a27f153a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_ad5f99343067017e5eed8efc1fbcd761bb5acc8e.jar" />
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_c8f820dbe249dff58696122776af28c6adbb01ba.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/f552f35320aa17c78fbd2ee86be75e77684d2109/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/a7873ce5c2ab80b35d30275baf3dc8a66ff260f6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="c087c239091fb19e91467fdc221a41e36d063a9a">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_b447f70892db9c890ed04e414cfda2ed2a66f8c0.jar" />
+        sha1="19a8311e62e0bf8a0e4b61f0b92dc1e15df22467">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_83e893f7bf6a3c050e79d19227de7090cb9ff5c8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pony/.android/build-cache/3fcbfb20489814873a6aaffdc95b94c33db86759/output/jars/classes.jar"
+        jar="/Users/pony/.android/build-cache/9485702b561240da05c445f9276a6503a0c65283/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
-        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_763f80936953f876f256ae3232be421ed2d56e51.jar" />
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_188959245efe7be344354fbfe7b0a40329bf8fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/91e1ca75016e96119b77775edb86caa19e39c231/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5146c245bdc9a94f1449a3e5b73b7c6b584a92aa">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_30d3b1207e8047e2a331d8427b6f849ef9b5d493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/c97e54566613cac1543955778d99a3fd3fd946b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b636b86d63e20ee04d65b9e789df4e1dc85c2b07">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_ff4f85c81d90bd3999210953ba8a1a6e486c6eb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/c21549d939c4af6286395b03f14658fec8d17c8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_4d47fabbcc54b6936b0aabf11ca9a21a05287f76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/5d231e53a1061280671b9b4719597e2eed00495f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_e4c391d7997ec8cc51eb7d0c4e68c99ddbc8cd07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/6ce833b6c60c5d2d3451e2840b5548a0d9a4fcd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b8e5cab10bb308650ff85595c182fd698465867e">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_3892102232dab79033c17a158e26ee7573edd96e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/65f62aff40d59d2b77976d9dda2ed69200bf92f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_9c9b09b469e517c8223030d185d6b7d933d57c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/31cf14c2ac57102b6ec28711394f5898e81f9a57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_e3dee22b48b705f72617cdaf8e2ca7fea6fa1300.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pony/.android/build-cache/84d5253b1e3141b10a6a03772463fb30a73ceb78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd20952de6e64554f87b82c4b33757f538d0b6f7">
+        <dex dex="/Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/build/intermediates/pre-dexed/debug/classes_f0aee19da71f59f83979605c6522a1d9559bc2f8.jar" />
     </item>
 
 </items>
