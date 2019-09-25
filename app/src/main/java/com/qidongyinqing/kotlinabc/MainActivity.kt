@@ -3,6 +3,7 @@ package com.qidongyinqing.kotlinabc
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.util.Log
+import com.qidongyinqing.kotlinabc.strings.KotlinNotNullDefine
 import com.qidongyinqing.kotlinabc.strings.joinToString
 import java.lang.Exception
 
@@ -55,6 +56,8 @@ class MainActivity : AppCompatActivity() {
 //
 //
 // CollectionAPI().testApi()
+
+        KotlinNotNullDefine.getLog()
 
         val list = listOf(1,2,3)
         //调用四个参数实现数组元素的拼装
