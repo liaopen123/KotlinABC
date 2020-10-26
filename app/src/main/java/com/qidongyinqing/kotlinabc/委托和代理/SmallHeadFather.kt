@@ -1,6 +1,9 @@
-package com.example.pony.kotlintoutor.委托和代理
+package com.qidongyinqing.kotlinabc.委托和代理
 
-class SmallHeadFather:IWashDisk by BigHeadSon(){
+import com.example.pony.kotlintoutor.委托和代理.BigHeadSon
+import com.example.pony.kotlintoutor.委托和代理.IWashDisk
+
+class SmallHeadFather: IWashDisk by BigHeadSon() {
     override fun washing() {
     }
 

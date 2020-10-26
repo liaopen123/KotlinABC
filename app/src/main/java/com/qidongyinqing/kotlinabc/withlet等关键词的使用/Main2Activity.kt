@@ -1,7 +1,7 @@
 package com.example.pony.kotlintoutor.withlet等关键词的使用
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.util.Log
 import android.webkit.WebView
 import com.qidongyinqing.kotlinabc.R

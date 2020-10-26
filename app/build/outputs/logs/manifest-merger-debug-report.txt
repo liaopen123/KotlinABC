@@ -1,116 +1,313 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [me.jessyan:retrofit-url-manager:1.4.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/e556ef997d10501046834b746d078a9e/retrofit-url-manager-1.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/pony/.gradle/caches/transforms-2/files-2.1/40644de6657712b8b71ab0381347b879/fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/730668f8b356dc9aada72f756468dd0b/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/a65a1e98c7a2b6d4c2f2f2e67693b7a4/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/02bdbb77ec7eba6e9b45560546b4390b/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/pony/.gradle/caches/transforms-2/files-2.1/b6a81a5ba84220c53e4fb6627a3f0c5e/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/2a03964bc6027987dea6e924a55ce7dd/anko-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/b46143167445f0a0c0eaa678695637cb/jetified-anko-appcompat-v7-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/3a433794f80a65702e89266b1bfb05b1/jetified-anko-appcompat-v7-coroutines-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/0646410fe377c4b27226308d94f7b9f3/anko-appcompat-v7-commons-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/cdd6e801ef934f2a9ad791b97073c551/jetified-appcompatV7-base-0.10.8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/334ab7dc1ab551d6a66d36cc767d0090/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/813c16392f05dca5e07bb33140947f29/anko-sqlite-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/68ad6b1dd63f3ee3249b7c384e9cdcea/anko-sdk27-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/f51c749bf8da9035088ec9efc97bdad0/anko-sdk27-coroutines-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/37e01d543fa1acebaa20facc96c59b53/jetified-anko-support-v4-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/471ffbc61fd78f944b3ef548676fdf86/anko-support-v4-commons-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/8b537af2c52da04d234a9cafd3b0d36c/anko-commons-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/651fa9ae93b5db47a1567684c0afdf76/anko-coroutines-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/f5bef7ad837a1b13f4bf641a143079d8/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/91a23a4781f5f62061df1b05ce1b4368/core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/b6893b300797f75f0d769bce3c852237/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/d084adc4a84ba6cdc4e0c89380e74aa9/sqlite-base-0.10.8/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/685e02f2e8e0be55bdd1f8c9de164ec5/platform-base-0.10.8/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/f2fc94167f9afdcae113b983f1db8ba1/jetified-supportV4-base-0.10.8/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/3c571de23617dec784493c36b16f1be0/jetified-commons-base-0.10.8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/ccc4b04c6f86c154f828f055a402a6e6/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/pony/.gradle/caches/transforms-2/files-2.1/409cd28e8a66c55e99fb572739a1994b/fragment-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/1ab247a9c90843fed2be27e6685227a0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/fe280242585717e25a8b221f03496ea1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/9e9dfe259ca5551e80d29ee0f8a6052e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/a0989cc7d893cf4565f7ce06e4af3331/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/1564eb7d32accc82eb980746202b36ea/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/1d0bc7d0e82ecd031563515b0822ef59/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/25ddf120eaa74d80addcac6f9e4bccc9/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/97928aec5e4399ddeff194a748715f74/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/2c812efda46485ada58f94db9b1150af/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/cddec53aa687677085644a2ad070382d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/a553201a47426fef84d295efb1ba15d7/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/95e53a83ba2a90344ac5bb115cd2143e/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/f148a024d46bf1c23667bdddb6de13a4/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/48b9d97a59dc8cb0040d1ef0cb938ab4/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/34e38ae23d8d2e36d04859bb4d203760/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/ea1bc9cb8a3645b0b13f27642ee59c7e/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/4daf410d658da46a224e7491d847dbe9/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/46ed33cb0646298c8db5a78bf5c38a57/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/pony/.gradle/caches/transforms-2/files-2.1/efeb17e342b5d77c44ce1be9622f2a23/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/b4670fdd46765890960d01391e06464c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/7d44e19c80b44438db509c64b19963aa/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/85b87fb015297eeef291c2b2730d848f/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/e5e6f5488d9319ff2ff708d61caf563e/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/e2514181f83ec8d17d68836d9bb60c52/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/fb0e87d9e04fc3f4e32800af9dfb8692/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/c41ad049c6ec9d530bacf9b047abcfb7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/2071b9255b4b7a442b2bffcbf5a59eba/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/0a454a9c56c5a422afd2dd6176fc88a3/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/8eb95908e5813ccb98a6cce5f56deaf9/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:3:5-42
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:4:5-42
 		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:1-40:12
 		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:5:1-62
+	android:name
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:5:18-60
 application
-ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:5:5-20:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/pony/.android/build-cache/0b64e978b4bca6e4c6ed88cbcc18bd44560ab2f4/output/AndroidManifest.xml:9:5-20
-MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.android/build-cache/ad17dc33e0b93a2df7818331e2ff94be2fb2c97d/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.android/build-cache/91976abf88a8b70514a20ce1530f563ec95185bb/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.android/build-cache/a84f940467321cf62e9ad99d21279701d1943a79/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.android/build-cache/c97e54566613cac1543955778d99a3fd3fd946b0/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.android/build-cache/ba9fa9caa51345fcae248c00f8081b300bc79ed7/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.android/build-cache/84d5253b1e3141b10a6a03772463fb30a73ceb78/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.android/build-cache/91a28b996eb093f6699e2ef5a37a5b7adb13e6f2/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.android/build-cache/6ee480cc59667bc63ed7fcd98a305043b1fe09f1/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.android/build-cache/a7873ce5c2ab80b35d30275baf3dc8a66ff260f6/output/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.android/build-cache/6ce833b6c60c5d2d3451e2840b5548a0d9a4fcd5/output/AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:support-compat:28.0.0] /Users/pony/.android/build-cache/a928a73684438260dc234d04977e8107d0e43892/output/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pony/.android/build-cache/0693514753604879cfc51a16b491a7fc6587e944/output/AndroidManifest.xml:22:5-23:19
-MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.android/build-cache/a77ff874128fb20849d3db115e2f257dc828a55a/output/AndroidManifest.xml:11:5-20
-	android:label
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:8:9-41
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:6:5-38:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/pony/.gradle/caches/transforms-2/files-2.1/b6a81a5ba84220c53e4fb6627a3f0c5e/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/pony/.gradle/caches/transforms-2/files-2.1/b6a81a5ba84220c53e4fb6627a3f0c5e/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/2a03964bc6027987dea6e924a55ce7dd/anko-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/2a03964bc6027987dea6e924a55ce7dd/anko-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/b46143167445f0a0c0eaa678695637cb/jetified-anko-appcompat-v7-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/b46143167445f0a0c0eaa678695637cb/jetified-anko-appcompat-v7-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/3a433794f80a65702e89266b1bfb05b1/jetified-anko-appcompat-v7-coroutines-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/3a433794f80a65702e89266b1bfb05b1/jetified-anko-appcompat-v7-coroutines-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/0646410fe377c4b27226308d94f7b9f3/anko-appcompat-v7-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/0646410fe377c4b27226308d94f7b9f3/anko-appcompat-v7-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/813c16392f05dca5e07bb33140947f29/anko-sqlite-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/813c16392f05dca5e07bb33140947f29/anko-sqlite-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/68ad6b1dd63f3ee3249b7c384e9cdcea/anko-sdk27-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/68ad6b1dd63f3ee3249b7c384e9cdcea/anko-sdk27-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/f51c749bf8da9035088ec9efc97bdad0/anko-sdk27-coroutines-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/f51c749bf8da9035088ec9efc97bdad0/anko-sdk27-coroutines-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/37e01d543fa1acebaa20facc96c59b53/jetified-anko-support-v4-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/37e01d543fa1acebaa20facc96c59b53/jetified-anko-support-v4-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/471ffbc61fd78f944b3ef548676fdf86/anko-support-v4-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/471ffbc61fd78f944b3ef548676fdf86/anko-support-v4-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/8b537af2c52da04d234a9cafd3b0d36c/anko-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/8b537af2c52da04d234a9cafd3b0d36c/anko-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/651fa9ae93b5db47a1567684c0afdf76/anko-coroutines-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/651fa9ae93b5db47a1567684c0afdf76/anko-coroutines-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/pony/.gradle/caches/transforms-2/files-2.1/efeb17e342b5d77c44ce1be9622f2a23/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/pony/.gradle/caches/transforms-2/files-2.1/efeb17e342b5d77c44ce1be9622f2a23/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/7d44e19c80b44438db509c64b19963aa/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/7d44e19c80b44438db509c64b19963aa/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:supportsRtl
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:10:9-41
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /Users/pony/.android/build-cache/a928a73684438260dc234d04977e8107d0e43892/output/AndroidManifest.xml:22:18-91
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:13:6-39
+		REJECTED from [androidx.core:core:1.3.1] /Users/pony/.gradle/caches/transforms-2/files-2.1/efeb17e342b5d77c44ce1be9622f2a23/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:roundIcon
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:9:9-54
-	android:allowBackup
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.qidongyinqing.kotlinabc.MainActivity
-ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:12:9-18:20
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:14:9-40
+	tools:replace
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:15:9-52
 	android:name
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:12:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:13:13-17:29
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:7:9-32
+activity#com.qidongyinqing.kotlinabc.retrofit.RetrofitActivity
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:name
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:16:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.qidongyinqing.kotlinabc.coroutines.CoroutinesActivity
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:24:9-26:20
+	android:name
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:24:19-64
+activity#com.qidongyinqing.kotlinabc.by关键字.ByActivity
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:27:9-63
+	android:name
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:27:19-51
+activity#com.qidongyinqing.kotlinabc.method.MethodMainActivity
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:28:9-63
+	android:name
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:28:19-60
+activity#com.qidongyinqing.kotlinabc.coroutines.Coroutines1Activity
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:29:19-65
+activity#com.qidongyinqing.kotlinabc.xiecheng.XieChengActivity
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:30:9-63
+	android:name
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:30:19-60
+activity#com.qidongyinqing.kotlinabc.MainActivity
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:31:9-50
+	android:name
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:31:19-47
 activity#com.qidongyinqing.kotlinabc.Main2Activity
-ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:19:9-60
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:32:9-51
 	android:name
-		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:19:19-48
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:32:19-48
+provider#com.qidongyinqing.kotlinabc.app.Ktx
+ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:34:9-37:40
+	android:authorities
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:36:13-54
+	android:exported
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml:35:13-36
 uses-sdk
 INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/pony/.android/build-cache/0b64e978b4bca6e4c6ed88cbcc18bd44560ab2f4/output/AndroidManifest.xml:5:5-7:41
-MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.android/build-cache/ad17dc33e0b93a2df7818331e2ff94be2fb2c97d/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.android/build-cache/91976abf88a8b70514a20ce1530f563ec95185bb/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.android/build-cache/a84f940467321cf62e9ad99d21279701d1943a79/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /Users/pony/.android/build-cache/b59418985f9d84d48e4bd7d259110f23aa5d39a7/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.android/build-cache/c97e54566613cac1543955778d99a3fd3fd946b0/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:platform-base:0.10.8] /Users/pony/.android/build-cache/e0c2fa72a47ba9f105e7d69de8e68a5ac5fa1b43/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.android/build-cache/ba9fa9caa51345fcae248c00f8081b300bc79ed7/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.android/build-cache/84d5253b1e3141b10a6a03772463fb30a73ceb78/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.android/build-cache/91a28b996eb093f6699e2ef5a37a5b7adb13e6f2/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.android/build-cache/6ee480cc59667bc63ed7fcd98a305043b1fe09f1/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.android/build-cache/a7873ce5c2ab80b35d30275baf3dc8a66ff260f6/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.android/build-cache/6ce833b6c60c5d2d3451e2840b5548a0d9a4fcd5/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /Users/pony/.android/build-cache/21bf7b0c6b3bbdb6eddc27b9e0c5e455eba2ad81/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:27.1.1] /Users/pony/.android/build-cache/ebb4215defa701632dfe43d02fd54046b18a0f85/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/pony/.android/build-cache/79f290d3198f3f61423b2c34cf489729f29bdd68/output/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /Users/pony/.android/build-cache/91e1ca75016e96119b77775edb86caa19e39c231/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/pony/.android/build-cache/598e8c08992340a0eebec743dd4a43b9e29e7d5f/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/pony/.android/build-cache/7facb4785a4483f8b90c2c26d7786d8cbf680458/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/pony/.android/build-cache/c21549d939c4af6286395b03f14658fec8d17c8d/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/pony/.android/build-cache/1ff418110f773721058b5990a0c3933c566da019/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/pony/.android/build-cache/258ba75707004d3f26341c9d7a0526df180d7a63/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/pony/.android/build-cache/727b55898ab28bfa26a99055bd50203943e36c4d/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/pony/.android/build-cache/65f62aff40d59d2b77976d9dda2ed69200bf92f6/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/pony/.android/build-cache/9485702b561240da05c445f9276a6503a0c65283/output/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/pony/.android/build-cache/88b2e45e8bb3d7a8effa9e7c29b8164956e55bcc/output/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/pony/.android/build-cache/ba7344d3100c574b359b861d3103fc4bc65741ad/output/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/pony/.android/build-cache/c2bb2b1d27d45b3f7fcc8053ea8b2422ece199df/output/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/pony/.android/build-cache/5d231e53a1061280671b9b4719597e2eed00495f/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/pony/.android/build-cache/2c376f97a8628daf17ae77a54f94caa8a27f153a/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/pony/.android/build-cache/03833046447294e73d775db76de85c8837da3a2a/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/pony/.android/build-cache/4393b80c9b9cd219c2d5486b2af5cf48e41c4d8c/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/pony/.android/build-cache/696165287af1d44430421c8f011f10a072ae1e75/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/pony/.android/build-cache/8510dbf7dffbf7bb1733c56c53f216d949375b3e/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/pony/.android/build-cache/31cf14c2ac57102b6ec28711394f5898e81f9a57/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/pony/.android/build-cache/598ad175fab076947b9ae468f676dd106d3b2cd6/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/pony/.android/build-cache/9582d9b242829c30101fba7ffea7942720972b88/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/pony/.android/build-cache/78fa06007225db81a57ba3ca3f10f07b1e1fd097/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/pony/.android/build-cache/eebaf9221c14cc30596a7d0d4aab6f3aaa415d33/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/pony/.android/build-cache/a928a73684438260dc234d04977e8107d0e43892/output/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/pony/.android/build-cache/a7b82b02ae10a145ee57c9d2dd651348ea49b480/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pony/.android/build-cache/0693514753604879cfc51a16b491a7fc6587e944/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/pony/.android/build-cache/88e8c098bd6bf9e214a218f26c467970cd4b36e3/output/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.android/build-cache/a77ff874128fb20849d3db115e2f257dc828a55a/output/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/pony/.android/build-cache/649148f18ae73ab0e09aed73f7fb89b5002c1601/output/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
+MERGED from [me.jessyan:retrofit-url-manager:1.4.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/e556ef997d10501046834b746d078a9e/retrofit-url-manager-1.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [me.jessyan:retrofit-url-manager:1.4.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/e556ef997d10501046834b746d078a9e/retrofit-url-manager-1.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/pony/.gradle/caches/transforms-2/files-2.1/40644de6657712b8b71ab0381347b879/fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/pony/.gradle/caches/transforms-2/files-2.1/40644de6657712b8b71ab0381347b879/fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/730668f8b356dc9aada72f756468dd0b/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/730668f8b356dc9aada72f756468dd0b/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/a65a1e98c7a2b6d4c2f2f2e67693b7a4/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/a65a1e98c7a2b6d4c2f2f2e67693b7a4/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/02bdbb77ec7eba6e9b45560546b4390b/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/02bdbb77ec7eba6e9b45560546b4390b/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/pony/.gradle/caches/transforms-2/files-2.1/b6a81a5ba84220c53e4fb6627a3f0c5e/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/pony/.gradle/caches/transforms-2/files-2.1/b6a81a5ba84220c53e4fb6627a3f0c5e/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/2a03964bc6027987dea6e924a55ce7dd/anko-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/2a03964bc6027987dea6e924a55ce7dd/anko-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/b46143167445f0a0c0eaa678695637cb/jetified-anko-appcompat-v7-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/b46143167445f0a0c0eaa678695637cb/jetified-anko-appcompat-v7-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/3a433794f80a65702e89266b1bfb05b1/jetified-anko-appcompat-v7-coroutines-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/3a433794f80a65702e89266b1bfb05b1/jetified-anko-appcompat-v7-coroutines-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/0646410fe377c4b27226308d94f7b9f3/anko-appcompat-v7-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/0646410fe377c4b27226308d94f7b9f3/anko-appcompat-v7-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/cdd6e801ef934f2a9ad791b97073c551/jetified-appcompatV7-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/cdd6e801ef934f2a9ad791b97073c551/jetified-appcompatV7-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/334ab7dc1ab551d6a66d36cc767d0090/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/334ab7dc1ab551d6a66d36cc767d0090/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/813c16392f05dca5e07bb33140947f29/anko-sqlite-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/813c16392f05dca5e07bb33140947f29/anko-sqlite-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/68ad6b1dd63f3ee3249b7c384e9cdcea/anko-sdk27-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/68ad6b1dd63f3ee3249b7c384e9cdcea/anko-sdk27-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/f51c749bf8da9035088ec9efc97bdad0/anko-sdk27-coroutines-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/f51c749bf8da9035088ec9efc97bdad0/anko-sdk27-coroutines-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/37e01d543fa1acebaa20facc96c59b53/jetified-anko-support-v4-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/37e01d543fa1acebaa20facc96c59b53/jetified-anko-support-v4-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/471ffbc61fd78f944b3ef548676fdf86/anko-support-v4-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/471ffbc61fd78f944b3ef548676fdf86/anko-support-v4-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/8b537af2c52da04d234a9cafd3b0d36c/anko-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/8b537af2c52da04d234a9cafd3b0d36c/anko-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/651fa9ae93b5db47a1567684c0afdf76/anko-coroutines-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/651fa9ae93b5db47a1567684c0afdf76/anko-coroutines-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/f5bef7ad837a1b13f4bf641a143079d8/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/f5bef7ad837a1b13f4bf641a143079d8/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/91a23a4781f5f62061df1b05ce1b4368/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/91a23a4781f5f62061df1b05ce1b4368/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/b6893b300797f75f0d769bce3c852237/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/b6893b300797f75f0d769bce3c852237/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/d084adc4a84ba6cdc4e0c89380e74aa9/sqlite-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/d084adc4a84ba6cdc4e0c89380e74aa9/sqlite-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/685e02f2e8e0be55bdd1f8c9de164ec5/platform-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/685e02f2e8e0be55bdd1f8c9de164ec5/platform-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/f2fc94167f9afdcae113b983f1db8ba1/jetified-supportV4-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/f2fc94167f9afdcae113b983f1db8ba1/jetified-supportV4-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/3c571de23617dec784493c36b16f1be0/jetified-commons-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/pony/.gradle/caches/transforms-2/files-2.1/3c571de23617dec784493c36b16f1be0/jetified-commons-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/ccc4b04c6f86c154f828f055a402a6e6/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/ccc4b04c6f86c154f828f055a402a6e6/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/pony/.gradle/caches/transforms-2/files-2.1/409cd28e8a66c55e99fb572739a1994b/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/pony/.gradle/caches/transforms-2/files-2.1/409cd28e8a66c55e99fb572739a1994b/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/1ab247a9c90843fed2be27e6685227a0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/1ab247a9c90843fed2be27e6685227a0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/fe280242585717e25a8b221f03496ea1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/fe280242585717e25a8b221f03496ea1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/9e9dfe259ca5551e80d29ee0f8a6052e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/9e9dfe259ca5551e80d29ee0f8a6052e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/a0989cc7d893cf4565f7ce06e4af3331/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/a0989cc7d893cf4565f7ce06e4af3331/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/1564eb7d32accc82eb980746202b36ea/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/1564eb7d32accc82eb980746202b36ea/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/1d0bc7d0e82ecd031563515b0822ef59/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/1d0bc7d0e82ecd031563515b0822ef59/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/25ddf120eaa74d80addcac6f9e4bccc9/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/25ddf120eaa74d80addcac6f9e4bccc9/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/97928aec5e4399ddeff194a748715f74/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/97928aec5e4399ddeff194a748715f74/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/2c812efda46485ada58f94db9b1150af/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/2c812efda46485ada58f94db9b1150af/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/cddec53aa687677085644a2ad070382d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/cddec53aa687677085644a2ad070382d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/a553201a47426fef84d295efb1ba15d7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/a553201a47426fef84d295efb1ba15d7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/95e53a83ba2a90344ac5bb115cd2143e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/95e53a83ba2a90344ac5bb115cd2143e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/f148a024d46bf1c23667bdddb6de13a4/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/f148a024d46bf1c23667bdddb6de13a4/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/48b9d97a59dc8cb0040d1ef0cb938ab4/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/48b9d97a59dc8cb0040d1ef0cb938ab4/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/34e38ae23d8d2e36d04859bb4d203760/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/34e38ae23d8d2e36d04859bb4d203760/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/ea1bc9cb8a3645b0b13f27642ee59c7e/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/ea1bc9cb8a3645b0b13f27642ee59c7e/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/4daf410d658da46a224e7491d847dbe9/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/4daf410d658da46a224e7491d847dbe9/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/46ed33cb0646298c8db5a78bf5c38a57/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/46ed33cb0646298c8db5a78bf5c38a57/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/pony/.gradle/caches/transforms-2/files-2.1/efeb17e342b5d77c44ce1be9622f2a23/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/pony/.gradle/caches/transforms-2/files-2.1/efeb17e342b5d77c44ce1be9622f2a23/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/b4670fdd46765890960d01391e06464c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/b4670fdd46765890960d01391e06464c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/7d44e19c80b44438db509c64b19963aa/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/7d44e19c80b44438db509c64b19963aa/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/85b87fb015297eeef291c2b2730d848f/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/85b87fb015297eeef291c2b2730d848f/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/e5e6f5488d9319ff2ff708d61caf563e/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/e5e6f5488d9319ff2ff708d61caf563e/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/e2514181f83ec8d17d68836d9bb60c52/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/e2514181f83ec8d17d68836d9bb60c52/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/fb0e87d9e04fc3f4e32800af9dfb8692/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/fb0e87d9e04fc3f4e32800af9dfb8692/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/c41ad049c6ec9d530bacf9b047abcfb7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/c41ad049c6ec9d530bacf9b047abcfb7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/2071b9255b4b7a442b2bffcbf5a59eba/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/2071b9255b4b7a442b2bffcbf5a59eba/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/0a454a9c56c5a422afd2dd6176fc88a3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/0a454a9c56c5a422afd2dd6176fc88a3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/8eb95908e5813ccb98a6cce5f56deaf9/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pony/.gradle/caches/transforms-2/files-2.1/8eb95908e5813ccb98a6cce5f56deaf9/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
 		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/pony/Documents/OneDrive - business/GitHub/KotlinABC/app/src/main/AndroidManifest.xml

@@ -1,17 +1,30 @@
 package com.qidongyinqing.kotlinabc
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.util.Log
 import com.qidongyinqing.kotlinabc.strings.KotlinNotNullDefine
 import com.qidongyinqing.kotlinabc.strings.joinToString
+import kotlinx.android.synthetic.main.activity_main.*
 import java.lang.Exception
+import java.util.*
 
 class MainActivity : AppCompatActivity() {
+
+    companion object{
+        init {
+            System.loadLibrary("native-lib")
+        }
+    }
+
+
+
     val pi = 3.1415
     val TAG = javaClass.simpleName
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+setContentView(R.layout.activity_main)
+        tv.text = stringFromJNI()
 //        val WEEK = 7
 //        var name = "pony"
 //        val c:Int
@@ -281,5 +294,5 @@ fun dvide(a:Int,b:Int){
 }
 
 //递归优化  tailedrec  如果递归层数太多 会报错Stack Overflow   加上tailedrec就好了
-
+external fun stringFromJNI(): String
 }

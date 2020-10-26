@@ -1,8 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: org.jetbrains.anko:appcompatV7-base:0.10.8@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/91e1ca75016e96119b77775edb86caa19e39c231/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/91e1ca75016e96119b77775edb86caa19e39c231/output/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9c8bcf0df518a12f1a2b5807e8a52ce/appcompatV7-base-0.10.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c8964ef85677a3db92d5fccbe4800aae/appcompatV7-base-0.10.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdd6e801ef934f2a9ad791b97073c551/jetified-appcompatV7-base-0.10.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdd6e801ef934f2a9ad791b97073c551/jetified-appcompatV7-base-0.10.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdd6e801ef934f2a9ad791b97073c551/jetified-appcompatV7-base-0.10.8/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

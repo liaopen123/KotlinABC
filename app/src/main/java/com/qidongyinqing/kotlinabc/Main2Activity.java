@@ -1,7 +1,7 @@
 package com.qidongyinqing.kotlinabc;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.widget.Toast;
 
 public class Main2Activity extends AppCompatActivity {

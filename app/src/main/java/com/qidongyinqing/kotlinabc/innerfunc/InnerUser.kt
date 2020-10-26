@@ -133,6 +133,7 @@ class InnerUser : AnkoLogger {
 
         }
     }
-
+    fun add(){
+    }
 
 }

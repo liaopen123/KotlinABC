@@ -1,8 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: org.jetbrains.anko:sqlite-base:0.10.8@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/b59418985f9d84d48e4bd7d259110f23aa5d39a7/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/b59418985f9d84d48e4bd7d259110f23aa5d39a7/output/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ef524a21d953b3a51b02469c755e3bc/sqlite-base-0.10.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d084adc4a84ba6cdc4e0c89380e74aa9/sqlite-base-0.10.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d084adc4a84ba6cdc4e0c89380e74aa9/sqlite-base-0.10.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d084adc4a84ba6cdc4e0c89380e74aa9/sqlite-base-0.10.8/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
